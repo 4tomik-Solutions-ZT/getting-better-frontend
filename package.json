@@ -17,7 +17,6 @@
     "primevue": "^3.12.6",
     "vue": "^3.2.33",
     "vue-flex": "^2.1.2",
-    "vue-flex-layout": "^3.0.2",
     "vue-responsive-components": "^0.2.3",
     "vue-router": "^4.0.14"
   },
